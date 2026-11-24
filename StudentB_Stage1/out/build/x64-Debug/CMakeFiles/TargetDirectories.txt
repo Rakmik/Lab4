@@ -1,0 +1,8 @@
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/PolySolverLib/CMakeFiles/PolySolverStatic.dir
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/PolySolverLib/CMakeFiles/edit_cache.dir
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/PolySolverLib/CMakeFiles/rebuild_cache.dir
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/App/CMakeFiles/AppStudentB.dir
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/App/CMakeFiles/edit_cache.dir
+D:/KRabik/ТПП/Lab4/StudentB_Stage1/out/build/x64-Debug/App/CMakeFiles/rebuild_cache.dir

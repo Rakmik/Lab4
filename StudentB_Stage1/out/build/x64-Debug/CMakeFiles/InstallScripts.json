@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/KRabik/\u0422\u041f\u041f/Lab4/StudentB_Stage1/out/build/x64-Debug/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab4/StudentB_Stage1/out/build/x64-Debug/PolySolverLib/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab4/StudentB_Stage1/out/build/x64-Debug/App/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
